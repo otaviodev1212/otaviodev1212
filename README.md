@@ -1,186 +1,105 @@
-# 👋 Olá, eu sou José Otávio
+# 💻 Desenvolvedor Full Stack em Evolução
 
-💻 Estudante de **Análise e Desenvolvimento de Sistemas (IFPA)** e desenvolvedor **Full Stack em evolução**.
+Olá! Seja bem-vindo ao meu perfil.
 
-Tenho interesse em desenvolver sistemas completos, desde a interface que o usuário utiliza até a lógica do backend e o banco de dados. Estou sempre aprendendo através de projetos práticos e buscando evoluir como desenvolvedor.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo minha carreira como desenvolvedor **Full Stack**, aprendendo na prática e desenvolvendo projetos para evoluir constantemente.
 
 ---
 
-## 🚀 Sobre mim
+## 👨‍💻 Sobre mim
 
-- 🎓 Estudante de ADS (IFPA)
-- 💻 Foco em Desenvolvimento Full Stack
-- 📚 Estudando HTML, CSS, JavaScript, Python, Flask e Banco de Dados
-- 🔨 Gosto de transformar ideias em projetos reais
-- 🚀 Buscando evoluir constantemente na área de tecnologia
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+
+📚 Sempre aprendendo novas tecnologias
+
+💡 Apaixonado por programação e resolução de problemas
+
+🚀 Focado em desenvolvimento Full Stack
+
+🔨 Desenvolvendo projetos para adquirir experiência prática
 
 ---
 
 ## 🛠️ Tecnologias
 
-### Linguagens
-- Python
-- JavaScript
-- HTML5
-- CSS3
+### 💻 Linguagens
 
-### Ferramentas
-- Git
-- GitHub
+🐍 Python
 
-### Atualmente estudando
-- Flask
-- SQLite
-- Flet
-- APIs
-- Desenvolvimento Full Stack
+🌐 HTML5
+
+🎨 CSS3
+
+⚡ JavaScript
 
 ---
 
-# 📂 Projetos
+### ⚙️ Ferramentas
 
-## 🏫 Sistema Escolar
+🔧 Git
 
-Sistema de gestão escolar desenvolvido em Python com:
+📂 GitHub
 
-- Cadastro de alunos
-- Login administrativo
-- Organização de dados
-- Persistência em JSON
-
-**Tecnologias**
-
-- Python
-- JSON
-- Git
-
-🔗 GitHub:
-https://github.com/otaviodev1212/sistema-escolar
+🗄️ SQLite
 
 ---
 
-## 🛒 Catálogo Online
+### 📖 Estudando
 
-Catálogo digital desenvolvido para empresa de acabamentos.
+🚀 Flask
 
-### Recursos
+🖥️ Flet
 
-- Galeria de produtos
-- Filtros
-- Contato via WhatsApp
-- Interface responsiva
+🔗 APIs REST
 
-**Tecnologias**
+🐳 Docker
 
-- HTML
-- CSS
-- JavaScript
-
-🌐 Demo:
-https://catalogoonlinee.netlify.app/
-
-🔗 GitHub:
-https://github.com/otaviodev1212/catalogo-online
+📦 Banco de Dados
 
 ---
 
-## 🏋️ GymFlow
+## 📂 Projetos
 
-Sistema para gerenciamento de academia.
+🏫 Sistema Escolar
 
-### Recursos
+🛒 Catálogo Online
 
-- Cadastro
-- Gerenciamento de alunos
-- Organização de exercícios
-- Interface Web
+🏋️ GymFlow
 
-**Tecnologias**
+🚪 Portão Smart
 
-- HTML
-- CSS
-- JavaScript
-
-🌐 Demo:
-https://gymflowpessoal.netlify.app/login/login.html
+📦 StockFlow
 
 ---
 
-## 🚪 Portão Smart
+## 🎯 Objetivos
 
-Sistema inteligente para automação de portão.
+✔ Evoluir como Desenvolvedor Full Stack
 
-### Recursos
+✔ Construir sistemas completos
 
-- Controle remoto
-- Gerenciamento de usuários
-- Histórico de atividades
-- Integração com ESP32
+✔ Aprender novas tecnologias
 
-**Tecnologias**
+✔ Desenvolver soluções para problemas reais
 
-- HTML
-- CSS
-- JavaScript
-- Python
-- Flask
-- SQLite
-- Flet
-- ESP32
-
-🔗 GitHub:
-https://github.com/otaviodev1212/portao-smart
-
----
-
-## 📦 StockFlow
-
-Sistema web para gerenciamento de estoque.
-
-### Recursos
-
-- Controle de estoque
-- Relatórios diários
-- Interface moderna
-- Organização de produtos
-
-**Tecnologias**
-
-- HTML
-- CSS
-- JavaScript
-
-🔗 GitHub:
-https://github.com/otaviodev1212/stock-flow
-
----
-
-## 📈 Objetivos
-
-Atualmente estou estudando para atuar como Desenvolvedor Full Stack, aprofundando conhecimentos em:
-
-- Python
-- JavaScript
-- Banco de Dados
-- Flask
-- APIs REST
-- Git e GitHub
-
-Meu objetivo é desenvolver aplicações completas, escaláveis e de qualidade.
+✔ Contribuir para projetos cada vez maiores
 
 ---
 
 ## 📫 Contato
 
-📧 Email  
-otavio.33costa@gmail.com
+📧 E-mail
 
-📱 WhatsApp  
-(91) 98561-2655
+📱 WhatsApp
 
-📷 Instagram  
-@otaviovzs
+💼 LinkedIn
+
+📷 Instagram
+
+🐙 GitHub
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+### ⭐ Obrigado por visitar meu perfil!
+
+Sempre aberto a aprender, compartilhar conhecimento e participar de novos projetos.
