@@ -1,79 +1,60 @@
-# 💻 Desenvolvedor Full Stack em Evolução
+# Olá, me chamo José Otávio
 
-Olá! Seja bem-vindo ao meu perfil.
+Seja bem-vindo ao meu perfil.
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo minha carreira como desenvolvedor **Full Stack**, aprendendo na prática e desenvolvendo projetos para evoluir constantemente.
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
+●**Estudante de Análise e Desenvolvimento de Sistemas**
 
-📚 Sempre aprendendo novas tecnologias
+●**Sempre aprendendo novas tecnologias**
 
-💡 Apaixonado por programação e resolução de problemas
+●**Apaixonado por programação e resolução de problemas**
 
-🚀 Focado em desenvolvimento Full Stack
+●**Focado em desenvolvimento Full Stack**
 
-🔨 Desenvolvendo projetos para adquirir experiência prática
+●**Desenvolvendo projetos para adquirir experiência prática**
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
+</p>
+
+---
+
+### Ferramentas
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" title="SQLite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" title="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>
 </p>
----
-
-### ⚙️ Ferramentas
-
-🔧 Git
-
-📂 GitHub
-
-🗄️ SQLite
 
 ---
 
-### 📖 Estudando
+## Projetos
 
-🚀 Flask
+●**Sistema Escolar**
 
-🖥️ Flet
+●**Catálogo Online**
 
-🔗 APIs REST
+●**GymFlow**
 
-🐳 Docker
+●**Portão Smart**
 
-📦 Banco de Dados
+●**StockFlow**
 
----
-
-## 📂 Projetos
-
-🏫 Sistema Escolar
-
-🛒 Catálogo Online
-
-🏋️ GymFlow
-
-🚪 Portão Smart
-
-📦 StockFlow
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 ✔ Evoluir como Desenvolvedor Full Stack
 
@@ -89,15 +70,15 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou constr
 
 ## 📫 Contato
 
-📧 E-mail
+📧 E-mail: otavio.33costa@gmail.com
 
-📱 WhatsApp
+📱 WhatsApp: (91) 98561-2655
 
-💼 LinkedIn
+💼 LinkedIn:
 
-📷 Instagram
+📷 Instagram: @otaviovzs
 
-🐙 GitHub
+🐙 GitHub:
 
 ---
 
