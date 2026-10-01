@@ -68,20 +68,20 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou constr
 
 ---
 
-## 📫 Contato
+## Contato
 
-📧 E-mail: otavio.33costa@gmail.com
+E-mail: otavio.33costa@gmail.com
 
-📱 WhatsApp: (91) 98561-2655
+WhatsApp: (91) 98561-2655
 
-💼 LinkedIn:
+LinkedIn:
 
-📷 Instagram: @otaviovzs
+Instagram: @otaviovzs
 
-🐙 GitHub:
+GitHub:
 
 ---
 
-### ⭐ Obrigado por visitar meu perfil!
+### Obrigado por visitar meu perfil!
 
 Sempre aberto a aprender, compartilhar conhecimento e participar de novos projetos.
