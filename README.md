@@ -2,7 +2,7 @@
 
 Seja bem-vindo ao meu perfil.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo minha carreira como desenvolvedor **Full Stack**, aprendendo na prática e desenvolvendo projetos para evoluir constantemente.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo minha carreira como desenvolvedor **Web**, aprendendo na prática e desenvolvendo projetos para evoluir constantemente.
 
 ---
 
@@ -14,7 +14,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou constr
 
 ●**Apaixonado por programação e resolução de problemas**
 
-●**Focado em desenvolvimento Full Stack**
+●**Focado em desenvolvimento Web**
 
 ●**Desenvolvendo projetos para adquirir experiência prática**
 
