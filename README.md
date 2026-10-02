@@ -76,7 +76,7 @@ LinkedIn:
 
 Instagram: @otaviovzs
 
-GitHub:
+GitHub: https://github.com/otaviodev1212
 
 ---
 
