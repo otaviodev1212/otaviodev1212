@@ -41,8 +41,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou constr
 
 ## Projetos
 
-●**Sistema Escolar**
-
 ●**Catálogo Online**
 
 ●**GymFlow**
