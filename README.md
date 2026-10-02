@@ -43,18 +43,18 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou constr
 
 ●**Catálogo Online**
 
-●**GymFlow**
-
 ●**Portão Smart**
 
 ●**StockFlow**
+
+●**Aventura Matemática**
 
 
 ---
 
 ## Objetivos
 
-✔ Evoluir como Desenvolvedor Full Stack
+✔ Evoluir como Desenvolvedor Web e no futuro migrar para Desenvolvedor Back end
 
 ✔ Construir sistemas completos
 
