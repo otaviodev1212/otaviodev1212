@@ -8,13 +8,13 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou constr
 
 ## Sobre mim
 
-●**Estudante de Análise e Desenvolvimento de Sistemas**
+●**Estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal do Pará (IFPA) Campus Paragomínas**
 
 ●**Sempre aprendendo novas tecnologias**
 
 ●**Apaixonado por programação e resolução de problemas**
 
-●**Focado em desenvolvimento Web**
+●**Aprendendo desenvolvimento Web**
 
 ●**Desenvolvendo projetos para adquirir experiência prática**
 
@@ -32,9 +32,10 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou constr
 ---
 
 ### Ferramentas
+---
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width="45" title="Trello"/>       
 </p>
 
 ---
