@@ -45,7 +45,6 @@ Gosto de resolver problemas com programação e aprendo melhor construindo proje
 | [**Aventura Matemática**](https://github.com/otaviodev1212/aventura-matematica) | Jogo educativo para ensinar matemática do 1º ano do ensino médio. | JavaScript |
 | [**Catálogo Online**](https://github.com/otaviodev1212/catalogo-online) | Catálogo para uma empresa de construção. | HTML, CSS |
 | [**Portão Smart**](https://github.com/otaviodev1212/portao-smart) | Interface para um sistema inteligente de controle de portas. | HTML, CSS, JavaScript |
-| [**StockFlow**](https://github.com/otaviodev1212/stockflow) | [Escreva aqui o que ele faz] | [Tecnologias] |
 
 ## Objetivos
 
