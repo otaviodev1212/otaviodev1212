@@ -25,7 +25,6 @@ Estudo Análise e Desenvolvimento de Sistemas no Instituto Federal do Pará (IFP
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker&perline=8" alt="Git, GitHub, VS Code e Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width="48" alt="Trello"/>
 </p>
 
 ## Estudando agora
