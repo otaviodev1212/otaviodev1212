@@ -20,13 +20,13 @@ Gosto de resolver problemas com programação e aprendo melhor construindo proje
 ## Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,py&perline=8" alt="HTML, CSS, JavaScript, Node.js, Express e Python"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,py,flask&perline=8" alt="HTML, CSS, JavaScript, Node.js, Express, Python e Flask"/>
 </p>
 
 ## Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm&perline=8" alt="Git, GitHub, VS Code e npm"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker&perline=8" alt="Git, GitHub, VS Code e Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width="48" alt="Trello"/>
 </p>
 
