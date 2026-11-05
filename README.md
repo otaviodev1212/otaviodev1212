@@ -13,9 +13,7 @@
 
 ## Sobre mim
 
-Estudo Análise e Desenvolvimento de Sistemas no Instituto Federal do Pará (IFPA), Campus Paragominas, e estou me formando como desenvolvedor Web.
-
-Gosto de resolver problemas com programação e aprendo melhor construindo projetos. Hoje desenvolvo o site de uma paróquia real, com horários e eventos das comunidades e uma área para os responsáveis.
+Estudo Análise e Desenvolvimento de Sistemas no Instituto Federal do Pará (IFPA), Campus Paragominas, e estou em formação para área de Desenvolvedor de Software. Gosto de resolver problemas com programação e aprendo melhor construindo projetos. 
 
 ## Tecnologias
 
@@ -48,8 +46,8 @@ Gosto de resolver problemas com programação e aprendo melhor construindo proje
 
 ## Objetivos
 
-- Conquistar minha primeira oportunidade como desenvolvedor Web
-- Evoluir para desenvolvedor full stack, criando sistemas completos do front end ao banco de dados
+- Conquistar minha primeira oportunidade como Desenvolvedor Web
+- Evoluir para Desenvolvedor Full Stack, criando sistemas completos do front end ao banco de dados
 - Desenvolver soluções para problemas reais
 - Contribuir com projetos maiores e aprender trabalhando em equipe
 
