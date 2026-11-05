@@ -1,7 +1,7 @@
 <h1 align="center">Olá, me chamo José Otávio 👋</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Web em formação</strong> · Estudante de ADS no IFPA · Pará, Brasil
+  <strong>Desenvolvedor Full Stack em formação</strong> · Estudante de ADS no IFPA · Pará, Brasil
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## Sobre mim
 
-Estudo Análise e Desenvolvimento de Sistemas no Instituto Federal do Pará (IFPA), Campus Paragominas, e estou em formação para área de Desenvolvedor de Software. Gosto de resolver problemas com programação e aprendo melhor construindo projetos. 
+Estudo Análise e Desenvolvimento de Sistemas no Instituto Federal do Pará (IFPA), Campus Paragominas, e estou me formando como Desenvolvedor Full Stack. Gosto de resolver problemas com programação e aprendo melhor construindo projetos.
 
 ## Tecnologias
 
@@ -46,8 +46,8 @@ Estudo Análise e Desenvolvimento de Sistemas no Instituto Federal do Pará (IFP
 
 ## Objetivos
 
-- Conquistar minha primeira oportunidade como Desenvolvedor Web
-- Evoluir para Desenvolvedor Full Stack, criando sistemas completos do front end ao banco de dados
+- Conquistar minha primeira oportunidade como Desenvolvedor
+- Evoluir como Desenvolvedor Full Stack, criando sistemas completos do front end ao banco de dados
 - Desenvolver soluções para problemas reais
 - Contribuir com projetos maiores e aprender trabalhando em equipe
 
