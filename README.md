@@ -55,7 +55,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou constr
 
 ## Objetivos
 
-✔ Evoluir como Desenvolvedor Web e no futuro migrar para Desenvolvedor Back end
+✔ Evoluir como Desenvolvedor Web e no futuro migrar para Desenvolvedor de Softwares
 
 ✔ Construir sistemas completos
 
